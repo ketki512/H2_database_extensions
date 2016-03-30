@@ -1,0 +1,1636 @@
+Calc Kmeans
+Cluster num: 1 : 13.0
+Number of data points: 15
+Round 1
+Cluster: 1
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 12.0 , 13.0 , 14.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 7.599999904632568
+Number of data points: 15
+Cluster: 1
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 12.0 , 13.0 , 14.0 , 
+
+--------------------------------
+
+Round 2
+Calculate new centroids
+New centroid num: 1 : 7.599999904632568
+Number of data points: 15
+Cluster: 1
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 12.0 , 13.0 , 14.0 , 
+
+--------------------------------
+
+7.599999904632568
++++++++++++++++++++++++++++++null
+Cluster num: 1 : 6.0
+Cluster num: 2 : 4.0
+Number of data points: 15
+Round 1
+Cluster: 1
+5.0 , 6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 12.0 , 13.0 , 14.0 , 
+Cluster: 2
+1.0 , 2.0 , 3.0 , 4.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 9.454545021057129
+New centroid num: 2 : 2.5
+Number of data points: 15
+Cluster: 1
+6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 12.0 , 13.0 , 14.0 , 
+Cluster: 2
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 
+
+--------------------------------
+
+Round 2
+Calculate new centroids
+New centroid num: 1 : 9.899999618530273
+New centroid num: 2 : 3.0
+Number of data points: 15
+Cluster: 1
+6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 12.0 , 13.0 , 14.0 , 
+Cluster: 2
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 
+
+--------------------------------
+
+9.899999618530273
+DISTANCE:   165
+3.0
+DISTANCE:   155
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 8.0
+Cluster num: 2 : 14.0
+Cluster num: 3 : 6.0
+Number of data points: 15
+Round 1
+Cluster: 1
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 
+Cluster: 2
+12.0 , 13.0 , 14.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 9.0
+New centroid num: 2 : 13.0
+New centroid num: 3 : 3.5
+Number of data points: 15
+Cluster: 1
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 
+Cluster: 2
+12.0 , 13.0 , 14.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 
+
+--------------------------------
+
+Round 2
+Calculate new centroids
+New centroid num: 1 : 9.0
+New centroid num: 2 : 13.0
+New centroid num: 3 : 3.5
+Number of data points: 15
+Cluster: 1
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 
+Cluster: 2
+12.0 , 13.0 , 14.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 
+
+--------------------------------
+
+9.0
+13.0
+3.5
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 14.0
+Cluster num: 2 : 9.0
+Cluster num: 3 : 8.0
+Cluster num: 4 : 13.0
+Number of data points: 15
+Round 1
+Cluster: 1
+14.0 , 
+Cluster: 2
+9.0 , 9.0 , 10.0 , 11.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 7.0 , 8.0 , 
+Cluster: 4
+12.0 , 13.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 14.0
+New centroid num: 2 : 9.75
+New centroid num: 3 : 4.5
+New centroid num: 4 : 12.5
+Number of data points: 15
+Cluster: 1
+14.0 , 
+Cluster: 2
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 11.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 
+Cluster: 4
+12.0 , 13.0 , 
+
+--------------------------------
+
+Round 2
+Calculate new centroids
+New centroid num: 1 : 14.0
+New centroid num: 2 : 9.0
+New centroid num: 3 : 3.5
+New centroid num: 4 : 12.5
+Number of data points: 15
+Cluster: 1
+14.0 , 
+Cluster: 2
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 
+Cluster: 4
+11.0 , 12.0 , 13.0 , 
+
+--------------------------------
+
+Round 3
+Calculate new centroids
+New centroid num: 1 : 14.0
+New centroid num: 2 : 8.600000381469727
+New centroid num: 3 : 3.5
+New centroid num: 4 : 12.0
+Number of data points: 15
+Cluster: 1
+13.0 , 14.0 , 
+Cluster: 2
+6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 
+Cluster: 4
+11.0 , 12.0 , 
+
+--------------------------------
+
+14.0
+8.600000381469727
+3.5
+12.0
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 8.0
+Cluster num: 2 : 5.0
+Cluster num: 3 : 4.0
+Cluster num: 4 : 10.0
+Cluster num: 5 : 13.0
+Number of data points: 15
+Round 1
+Cluster: 1
+7.0 , 8.0 , 9.0 , 9.0 , 
+Cluster: 2
+5.0 , 6.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 4.0 , 
+Cluster: 4
+10.0 , 11.0 , 
+Cluster: 5
+12.0 , 13.0 , 14.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 8.25
+New centroid num: 2 : 5.5
+New centroid num: 3 : 2.5
+New centroid num: 4 : 10.5
+New centroid num: 5 : 13.0
+Number of data points: 15
+Cluster: 1
+7.0 , 8.0 , 9.0 , 9.0 , 
+Cluster: 2
+4.0 , 5.0 , 6.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 
+Cluster: 4
+10.0 , 11.0 , 12.0 , 
+Cluster: 5
+13.0 , 14.0 , 
+
+--------------------------------
+
+Round 2
+Calculate new centroids
+New centroid num: 1 : 8.25
+New centroid num: 2 : 5.0
+New centroid num: 3 : 2.0
+New centroid num: 4 : 11.0
+New centroid num: 5 : 13.5
+Number of data points: 15
+Cluster: 1
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 
+Cluster: 2
+4.0 , 5.0 , 6.0 , 
+Cluster: 3
+1.0 , 2.0 , 3.0 , 
+Cluster: 4
+11.0 , 12.0 , 
+Cluster: 5
+13.0 , 14.0 , 
+
+--------------------------------
+
+8.25
+5.0
+2.0
+11.0
+13.5
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 10.0
+Cluster num: 2 : 4.0
+Cluster num: 3 : 7.0
+Cluster num: 4 : 10.0
+Cluster num: 5 : 5.0
+Cluster num: 6 : 2.0
+Number of data points: 15
+Round 1
+Cluster: 1
+9.0 , 9.0 , 10.0 , 11.0 , 12.0 , 13.0 , 14.0 , 
+Cluster: 2
+3.0 , 4.0 , 
+Cluster: 3
+6.0 , 7.0 , 8.0 , 
+Cluster: 4
+
+Cluster: 5
+5.0 , 
+Cluster: 6
+1.0 , 2.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 11.142857551574707
+New centroid num: 2 : 3.5
+New centroid num: 3 : 7.0
+New centroid num: 4 : NaN
+New centroid num: 5 : 5.0
+New centroid num: 6 : 1.5
+Number of data points: 15
+Cluster: 1
+9.0 , 9.0 , 10.0 , 11.0 , 12.0 , 13.0 , 14.0 , 
+Cluster: 2
+3.0 , 4.0 , 
+Cluster: 3
+6.0 , 7.0 , 8.0 , 
+Cluster: 4
+
+Cluster: 5
+5.0 , 
+Cluster: 6
+1.0 , 2.0 , 
+
+--------------------------------
+
+11.142857551574707
+3.5
+7.0
+NaN
+5.0
+1.5
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 7.0
+Cluster num: 2 : 13.0
+Cluster num: 3 : 4.0
+Cluster num: 4 : 14.0
+Cluster num: 5 : 2.0
+Cluster num: 6 : 8.0
+Cluster num: 7 : 11.0
+Number of data points: 15
+Round 1
+Cluster: 1
+6.0 , 7.0 , 
+Cluster: 2
+12.0 , 13.0 , 
+Cluster: 3
+3.0 , 4.0 , 5.0 , 
+Cluster: 4
+14.0 , 
+Cluster: 5
+1.0 , 2.0 , 
+Cluster: 6
+8.0 , 9.0 , 9.0 , 
+Cluster: 7
+10.0 , 11.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 6.5
+New centroid num: 2 : 12.5
+New centroid num: 3 : 4.0
+New centroid num: 4 : 14.0
+New centroid num: 5 : 1.5
+New centroid num: 6 : 8.666666984558105
+New centroid num: 7 : 10.5
+Number of data points: 15
+Cluster: 1
+5.0 , 6.0 , 7.0 , 
+Cluster: 2
+12.0 , 13.0 , 
+Cluster: 3
+3.0 , 4.0 , 
+Cluster: 4
+14.0 , 
+Cluster: 5
+1.0 , 2.0 , 
+Cluster: 6
+8.0 , 9.0 , 9.0 , 
+Cluster: 7
+10.0 , 11.0 , 
+
+--------------------------------
+
+6.5
+12.5
+4.0
+14.0
+1.5
+8.666666984558105
+10.5
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 14.0
+Cluster num: 2 : 9.0
+Cluster num: 3 : 14.0
+Cluster num: 4 : 2.0
+Cluster num: 5 : 14.0
+Cluster num: 6 : 12.0
+Cluster num: 7 : 9.0
+Cluster num: 8 : 13.0
+Number of data points: 15
+Round 1
+Cluster: 1
+14.0 , 
+Cluster: 2
+6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 
+Cluster: 3
+
+Cluster: 4
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 
+Cluster: 5
+
+Cluster: 6
+11.0 , 12.0 , 
+Cluster: 7
+
+Cluster: 8
+13.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 14.0
+New centroid num: 2 : 8.166666984558105
+New centroid num: 3 : NaN
+New centroid num: 4 : 3.0
+New centroid num: 5 : NaN
+New centroid num: 6 : 11.5
+New centroid num: 7 : NaN
+New centroid num: 8 : 13.0
+Number of data points: 15
+Cluster: 1
+14.0 , 
+Cluster: 2
+6.0 , 7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 
+Cluster: 3
+
+Cluster: 4
+1.0 , 2.0 , 3.0 , 4.0 , 5.0 , 
+Cluster: 5
+
+Cluster: 6
+11.0 , 12.0 , 
+Cluster: 7
+
+Cluster: 8
+13.0 , 
+
+--------------------------------
+
+14.0
+8.166666984558105
+NaN
+3.0
+NaN
+11.5
+NaN
+13.0
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 3.0
+Cluster num: 2 : 14.0
+Cluster num: 3 : 12.0
+Cluster num: 4 : 11.0
+Cluster num: 5 : 10.0
+Cluster num: 6 : 13.0
+Cluster num: 7 : 11.0
+Cluster num: 8 : 1.0
+Cluster num: 9 : 12.0
+Number of data points: 15
+Round 1
+Cluster: 1
+2.0 , 3.0 , 4.0 , 5.0 , 6.0 , 
+Cluster: 2
+14.0 , 
+Cluster: 3
+12.0 , 
+Cluster: 4
+11.0 , 
+Cluster: 5
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 
+Cluster: 6
+13.0 , 
+Cluster: 7
+
+Cluster: 8
+1.0 , 
+Cluster: 9
+
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 4.0
+New centroid num: 2 : 14.0
+New centroid num: 3 : 12.0
+New centroid num: 4 : 11.0
+New centroid num: 5 : 8.600000381469727
+New centroid num: 6 : 13.0
+New centroid num: 7 : NaN
+New centroid num: 8 : 1.0
+New centroid num: 9 : NaN
+Number of data points: 15
+Cluster: 1
+3.0 , 4.0 , 5.0 , 6.0 , 
+Cluster: 2
+14.0 , 
+Cluster: 3
+12.0 , 
+Cluster: 4
+10.0 , 11.0 , 
+Cluster: 5
+7.0 , 8.0 , 9.0 , 9.0 , 
+Cluster: 6
+13.0 , 
+Cluster: 7
+
+Cluster: 8
+1.0 , 2.0 , 
+Cluster: 9
+
+
+--------------------------------
+
+4.0
+14.0
+12.0
+11.0
+8.600000381469727
+13.0
+NaN
+1.0
+NaN
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 12.0
+Cluster num: 2 : 8.0
+Cluster num: 3 : 10.0
+Cluster num: 4 : 6.0
+Cluster num: 5 : 4.0
+Cluster num: 6 : 4.0
+Cluster num: 7 : 6.0
+Cluster num: 8 : 5.0
+Cluster num: 9 : 10.0
+Cluster num: 10 : 12.0
+Number of data points: 15
+Round 1
+Cluster: 1
+11.0 , 12.0 , 13.0 , 14.0 , 
+Cluster: 2
+7.0 , 8.0 , 9.0 , 9.0 , 
+Cluster: 3
+10.0 , 
+Cluster: 4
+6.0 , 
+Cluster: 5
+1.0 , 2.0 , 3.0 , 4.0 , 
+Cluster: 6
+
+Cluster: 7
+
+Cluster: 8
+5.0 , 
+Cluster: 9
+
+Cluster: 10
+
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 12.5
+New centroid num: 2 : 8.25
+New centroid num: 3 : 10.0
+New centroid num: 4 : 6.0
+New centroid num: 5 : 2.5
+New centroid num: 6 : NaN
+New centroid num: 7 : NaN
+New centroid num: 8 : 5.0
+New centroid num: 9 : NaN
+New centroid num: 10 : NaN
+Number of data points: 15
+Cluster: 1
+11.0 , 12.0 , 13.0 , 14.0 , 
+Cluster: 2
+7.0 , 8.0 , 9.0 , 9.0 , 
+Cluster: 3
+10.0 , 
+Cluster: 4
+6.0 , 
+Cluster: 5
+1.0 , 2.0 , 3.0 , 4.0 , 
+Cluster: 6
+
+Cluster: 7
+
+Cluster: 8
+5.0 , 
+Cluster: 9
+
+Cluster: 10
+
+
+--------------------------------
+
+12.5
+8.25
+10.0
+6.0
+2.5
+NaN
+NaN
+5.0
+NaN
+NaN
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 12.0
+Cluster num: 2 : 2.0
+Cluster num: 3 : 6.0
+Cluster num: 4 : 1.0
+Cluster num: 5 : 13.0
+Cluster num: 6 : 13.0
+Cluster num: 7 : 5.0
+Cluster num: 8 : 12.0
+Cluster num: 9 : 7.0
+Cluster num: 10 : 13.0
+Cluster num: 11 : 3.0
+Number of data points: 15
+Round 1
+Cluster: 1
+10.0 , 11.0 , 12.0 , 
+Cluster: 2
+2.0 , 
+Cluster: 3
+6.0 , 
+Cluster: 4
+1.0 , 
+Cluster: 5
+13.0 , 14.0 , 
+Cluster: 6
+
+Cluster: 7
+4.0 , 5.0 , 
+Cluster: 8
+
+Cluster: 9
+7.0 , 8.0 , 9.0 , 9.0 , 
+Cluster: 10
+
+Cluster: 11
+3.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 11.0
+New centroid num: 2 : 2.0
+New centroid num: 3 : 6.0
+New centroid num: 4 : 1.0
+New centroid num: 5 : 13.5
+New centroid num: 6 : NaN
+New centroid num: 7 : 4.5
+New centroid num: 8 : NaN
+New centroid num: 9 : 8.25
+New centroid num: 10 : NaN
+New centroid num: 11 : 3.0
+Number of data points: 15
+Cluster: 1
+10.0 , 11.0 , 12.0 , 
+Cluster: 2
+2.0 , 
+Cluster: 3
+6.0 , 7.0 , 
+Cluster: 4
+1.0 , 
+Cluster: 5
+13.0 , 14.0 , 
+Cluster: 6
+
+Cluster: 7
+4.0 , 5.0 , 
+Cluster: 8
+
+Cluster: 9
+8.0 , 9.0 , 9.0 , 
+Cluster: 10
+
+Cluster: 11
+3.0 , 
+
+--------------------------------
+
+11.0
+2.0
+6.0
+1.0
+13.5
+NaN
+4.5
+NaN
+8.25
+NaN
+3.0
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 4.0
+Cluster num: 2 : 13.0
+Cluster num: 3 : 9.0
+Cluster num: 4 : 14.0
+Cluster num: 5 : 14.0
+Cluster num: 6 : 13.0
+Cluster num: 7 : 14.0
+Cluster num: 8 : 3.0
+Cluster num: 9 : 14.0
+Cluster num: 10 : 5.0
+Cluster num: 11 : 14.0
+Cluster num: 12 : 13.0
+Number of data points: 15
+Round 1
+Cluster: 1
+4.0 , 
+Cluster: 2
+11.0 , 12.0 , 13.0 , 
+Cluster: 3
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 
+Cluster: 4
+14.0 , 
+Cluster: 5
+
+Cluster: 6
+
+Cluster: 7
+
+Cluster: 8
+1.0 , 2.0 , 3.0 , 
+Cluster: 9
+
+Cluster: 10
+5.0 , 6.0 , 
+Cluster: 11
+
+Cluster: 12
+
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 4.0
+New centroid num: 2 : 12.0
+New centroid num: 3 : 8.600000381469727
+New centroid num: 4 : 14.0
+New centroid num: 5 : NaN
+New centroid num: 6 : NaN
+New centroid num: 7 : NaN
+New centroid num: 8 : 2.0
+New centroid num: 9 : NaN
+New centroid num: 10 : 5.5
+New centroid num: 11 : NaN
+New centroid num: 12 : NaN
+Number of data points: 15
+Cluster: 1
+3.0 , 4.0 , 
+Cluster: 2
+11.0 , 12.0 , 13.0 , 
+Cluster: 3
+7.0 , 8.0 , 9.0 , 9.0 , 10.0 , 
+Cluster: 4
+14.0 , 
+Cluster: 5
+
+Cluster: 6
+
+Cluster: 7
+
+Cluster: 8
+1.0 , 2.0 , 
+Cluster: 9
+
+Cluster: 10
+5.0 , 6.0 , 
+Cluster: 11
+
+Cluster: 12
+
+
+--------------------------------
+
+4.0
+12.0
+8.600000381469727
+14.0
+NaN
+NaN
+NaN
+2.0
+NaN
+5.5
+NaN
+NaN
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 10.0
+Cluster num: 2 : 9.0
+Cluster num: 3 : 12.0
+Cluster num: 4 : 9.0
+Cluster num: 5 : 5.0
+Cluster num: 6 : 4.0
+Cluster num: 7 : 4.0
+Cluster num: 8 : 9.0
+Cluster num: 9 : 1.0
+Cluster num: 10 : 9.0
+Cluster num: 11 : 11.0
+Cluster num: 12 : 9.0
+Cluster num: 13 : 6.0
+Number of data points: 15
+Round 1
+Cluster: 1
+10.0 , 
+Cluster: 2
+8.0 , 9.0 , 9.0 , 
+Cluster: 3
+12.0 , 13.0 , 14.0 , 
+Cluster: 4
+
+Cluster: 5
+5.0 , 
+Cluster: 6
+3.0 , 4.0 , 
+Cluster: 7
+
+Cluster: 8
+
+Cluster: 9
+1.0 , 2.0 , 
+Cluster: 10
+
+Cluster: 11
+11.0 , 
+Cluster: 12
+
+Cluster: 13
+6.0 , 7.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 10.0
+New centroid num: 2 : 8.666666984558105
+New centroid num: 3 : 13.0
+New centroid num: 4 : NaN
+New centroid num: 5 : 5.0
+New centroid num: 6 : 3.5
+New centroid num: 7 : NaN
+New centroid num: 8 : NaN
+New centroid num: 9 : 1.5
+New centroid num: 10 : NaN
+New centroid num: 11 : 11.0
+New centroid num: 12 : NaN
+New centroid num: 13 : 6.5
+Number of data points: 15
+Cluster: 1
+10.0 , 
+Cluster: 2
+8.0 , 9.0 , 9.0 , 
+Cluster: 3
+12.0 , 13.0 , 14.0 , 
+Cluster: 4
+
+Cluster: 5
+5.0 , 
+Cluster: 6
+3.0 , 4.0 , 
+Cluster: 7
+
+Cluster: 8
+
+Cluster: 9
+1.0 , 2.0 , 
+Cluster: 10
+
+Cluster: 11
+11.0 , 
+Cluster: 12
+
+Cluster: 13
+6.0 , 7.0 , 
+
+--------------------------------
+
+10.0
+8.666666984558105
+13.0
+NaN
+5.0
+3.5
+NaN
+NaN
+1.5
+NaN
+11.0
+NaN
+6.5
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 14.0
+Cluster num: 2 : 10.0
+Cluster num: 3 : 8.0
+Cluster num: 4 : 8.0
+Cluster num: 5 : 12.0
+Cluster num: 6 : 6.0
+Cluster num: 7 : 13.0
+Cluster num: 8 : 1.0
+Cluster num: 9 : 8.0
+Cluster num: 10 : 13.0
+Cluster num: 11 : 10.0
+Cluster num: 12 : 3.0
+Cluster num: 13 : 1.0
+Cluster num: 14 : 12.0
+Number of data points: 15
+Round 1
+Cluster: 1
+14.0 , 
+Cluster: 2
+9.0 , 9.0 , 10.0 , 11.0 , 
+Cluster: 3
+7.0 , 8.0 , 
+Cluster: 4
+
+Cluster: 5
+12.0 , 
+Cluster: 6
+5.0 , 6.0 , 
+Cluster: 7
+13.0 , 
+Cluster: 8
+1.0 , 2.0 , 
+Cluster: 9
+
+Cluster: 10
+
+Cluster: 11
+
+Cluster: 12
+3.0 , 4.0 , 
+Cluster: 13
+
+Cluster: 14
+
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 14.0
+New centroid num: 2 : 9.75
+New centroid num: 3 : 7.5
+New centroid num: 4 : NaN
+New centroid num: 5 : 12.0
+New centroid num: 6 : 5.5
+New centroid num: 7 : 13.0
+New centroid num: 8 : 1.5
+New centroid num: 9 : NaN
+New centroid num: 10 : NaN
+New centroid num: 11 : NaN
+New centroid num: 12 : 3.5
+New centroid num: 13 : NaN
+New centroid num: 14 : NaN
+Number of data points: 15
+Cluster: 1
+14.0 , 
+Cluster: 2
+9.0 , 9.0 , 10.0 , 11.0 , 
+Cluster: 3
+7.0 , 8.0 , 
+Cluster: 4
+
+Cluster: 5
+12.0 , 
+Cluster: 6
+5.0 , 6.0 , 
+Cluster: 7
+13.0 , 
+Cluster: 8
+1.0 , 2.0 , 
+Cluster: 9
+
+Cluster: 10
+
+Cluster: 11
+
+Cluster: 12
+3.0 , 4.0 , 
+Cluster: 13
+
+Cluster: 14
+
+
+--------------------------------
+
+14.0
+9.75
+7.5
+NaN
+12.0
+5.5
+13.0
+1.5
+NaN
+NaN
+NaN
+3.5
+NaN
+NaN
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 7.0
+Cluster num: 2 : 4.0
+Cluster num: 3 : 14.0
+Cluster num: 4 : 11.0
+Cluster num: 5 : 3.0
+Cluster num: 6 : 11.0
+Cluster num: 7 : 11.0
+Cluster num: 8 : 2.0
+Cluster num: 9 : 14.0
+Cluster num: 10 : 8.0
+Cluster num: 11 : 11.0
+Cluster num: 12 : 12.0
+Cluster num: 13 : 4.0
+Cluster num: 14 : 6.0
+Cluster num: 15 : 4.0
+Number of data points: 15
+Round 1
+Cluster: 1
+7.0 , 
+Cluster: 2
+4.0 , 5.0 , 
+Cluster: 3
+13.0 , 14.0 , 
+Cluster: 4
+10.0 , 11.0 , 
+Cluster: 5
+3.0 , 
+Cluster: 6
+
+Cluster: 7
+
+Cluster: 8
+1.0 , 2.0 , 
+Cluster: 9
+
+Cluster: 10
+8.0 , 9.0 , 9.0 , 
+Cluster: 11
+
+Cluster: 12
+12.0 , 
+Cluster: 13
+
+Cluster: 14
+6.0 , 
+Cluster: 15
+
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 7.0
+New centroid num: 2 : 4.5
+New centroid num: 3 : 13.5
+New centroid num: 4 : 10.5
+New centroid num: 5 : 3.0
+New centroid num: 6 : NaN
+New centroid num: 7 : NaN
+New centroid num: 8 : 1.5
+New centroid num: 9 : NaN
+New centroid num: 10 : 8.666666984558105
+New centroid num: 11 : NaN
+New centroid num: 12 : 12.0
+New centroid num: 13 : NaN
+New centroid num: 14 : 6.0
+New centroid num: 15 : NaN
+Number of data points: 15
+Cluster: 1
+7.0 , 
+Cluster: 2
+4.0 , 5.0 , 
+Cluster: 3
+13.0 , 14.0 , 
+Cluster: 4
+10.0 , 11.0 , 
+Cluster: 5
+3.0 , 
+Cluster: 6
+
+Cluster: 7
+
+Cluster: 8
+1.0 , 2.0 , 
+Cluster: 9
+
+Cluster: 10
+8.0 , 9.0 , 9.0 , 
+Cluster: 11
+
+Cluster: 12
+12.0 , 
+Cluster: 13
+
+Cluster: 14
+6.0 , 
+Cluster: 15
+
+
+--------------------------------
+
+7.0
+4.5
+13.5
+10.5
+3.0
+NaN
+NaN
+1.5
+NaN
+8.666666984558105
+NaN
+12.0
+NaN
+6.0
+NaN
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 8.0
+Cluster num: 2 : 4.0
+Cluster num: 3 : 10.0
+Cluster num: 4 : 10.0
+Cluster num: 5 : 7.0
+Cluster num: 6 : 3.0
+Cluster num: 7 : 7.0
+Cluster num: 8 : 13.0
+Cluster num: 9 : 14.0
+Cluster num: 10 : 3.0
+Cluster num: 11 : 1.0
+Cluster num: 12 : 7.0
+Cluster num: 13 : 13.0
+Cluster num: 14 : 9.0
+Cluster num: 15 : 4.0
+Cluster num: 16 : 3.0
+Number of data points: 15
+Round 1
+Cluster: 1
+8.0 , 
+Cluster: 2
+4.0 , 5.0 , 
+Cluster: 3
+10.0 , 11.0 , 
+Cluster: 4
+
+Cluster: 5
+6.0 , 7.0 , 
+Cluster: 6
+2.0 , 3.0 , 
+Cluster: 7
+
+Cluster: 8
+12.0 , 13.0 , 
+Cluster: 9
+14.0 , 
+Cluster: 10
+
+Cluster: 11
+1.0 , 
+Cluster: 12
+
+Cluster: 13
+
+Cluster: 14
+9.0 , 9.0 , 
+Cluster: 15
+
+Cluster: 16
+
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 8.0
+New centroid num: 2 : 4.5
+New centroid num: 3 : 10.5
+New centroid num: 4 : NaN
+New centroid num: 5 : 6.5
+New centroid num: 6 : 2.5
+New centroid num: 7 : NaN
+New centroid num: 8 : 12.5
+New centroid num: 9 : 14.0
+New centroid num: 10 : NaN
+New centroid num: 11 : 1.0
+New centroid num: 12 : NaN
+New centroid num: 13 : NaN
+New centroid num: 14 : 9.0
+New centroid num: 15 : NaN
+New centroid num: 16 : NaN
+Number of data points: 15
+Cluster: 1
+8.0 , 
+Cluster: 2
+4.0 , 5.0 , 
+Cluster: 3
+10.0 , 11.0 , 
+Cluster: 4
+
+Cluster: 5
+6.0 , 7.0 , 
+Cluster: 6
+2.0 , 3.0 , 
+Cluster: 7
+
+Cluster: 8
+12.0 , 13.0 , 
+Cluster: 9
+14.0 , 
+Cluster: 10
+
+Cluster: 11
+1.0 , 
+Cluster: 12
+
+Cluster: 13
+
+Cluster: 14
+9.0 , 9.0 , 
+Cluster: 15
+
+Cluster: 16
+
+
+--------------------------------
+
+8.0
+4.5
+10.5
+NaN
+6.5
+2.5
+NaN
+12.5
+14.0
+NaN
+1.0
+NaN
+NaN
+9.0
+NaN
+NaN
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 3.0
+Cluster num: 2 : 9.0
+Cluster num: 3 : 3.0
+Cluster num: 4 : 7.0
+Cluster num: 5 : 2.0
+Cluster num: 6 : 6.0
+Cluster num: 7 : 11.0
+Cluster num: 8 : 13.0
+Cluster num: 9 : 9.0
+Cluster num: 10 : 13.0
+Cluster num: 11 : 2.0
+Cluster num: 12 : 10.0
+Cluster num: 13 : 5.0
+Cluster num: 14 : 13.0
+Cluster num: 15 : 13.0
+Cluster num: 16 : 9.0
+Cluster num: 17 : 4.0
+Number of data points: 15
+Round 1
+Cluster: 1
+3.0 , 
+Cluster: 2
+8.0 , 9.0 , 9.0 , 
+Cluster: 3
+
+Cluster: 4
+7.0 , 
+Cluster: 5
+1.0 , 2.0 , 
+Cluster: 6
+6.0 , 
+Cluster: 7
+11.0 , 12.0 , 
+Cluster: 8
+13.0 , 14.0 , 
+Cluster: 9
+
+Cluster: 10
+
+Cluster: 11
+
+Cluster: 12
+10.0 , 
+Cluster: 13
+5.0 , 
+Cluster: 14
+
+Cluster: 15
+
+Cluster: 16
+
+Cluster: 17
+4.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 3.0
+New centroid num: 2 : 8.666666984558105
+New centroid num: 3 : NaN
+New centroid num: 4 : 7.0
+New centroid num: 5 : 1.5
+New centroid num: 6 : 6.0
+New centroid num: 7 : 11.5
+New centroid num: 8 : 13.5
+New centroid num: 9 : NaN
+New centroid num: 10 : NaN
+New centroid num: 11 : NaN
+New centroid num: 12 : 10.0
+New centroid num: 13 : 5.0
+New centroid num: 14 : NaN
+New centroid num: 15 : NaN
+New centroid num: 16 : NaN
+New centroid num: 17 : 4.0
+Number of data points: 15
+Cluster: 1
+3.0 , 
+Cluster: 2
+8.0 , 9.0 , 9.0 , 
+Cluster: 3
+
+Cluster: 4
+7.0 , 
+Cluster: 5
+1.0 , 2.0 , 
+Cluster: 6
+6.0 , 
+Cluster: 7
+11.0 , 12.0 , 
+Cluster: 8
+13.0 , 14.0 , 
+Cluster: 9
+
+Cluster: 10
+
+Cluster: 11
+
+Cluster: 12
+10.0 , 
+Cluster: 13
+5.0 , 
+Cluster: 14
+
+Cluster: 15
+
+Cluster: 16
+
+Cluster: 17
+4.0 , 
+
+--------------------------------
+
+3.0
+8.666666984558105
+NaN
+7.0
+1.5
+6.0
+11.5
+13.5
+NaN
+NaN
+NaN
+10.0
+5.0
+NaN
+NaN
+NaN
+4.0
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 5.0
+Cluster num: 2 : 9.0
+Cluster num: 3 : 9.0
+Cluster num: 4 : 8.0
+Cluster num: 5 : 14.0
+Cluster num: 6 : 11.0
+Cluster num: 7 : 9.0
+Cluster num: 8 : 9.0
+Cluster num: 9 : 1.0
+Cluster num: 10 : 9.0
+Cluster num: 11 : 9.0
+Cluster num: 12 : 2.0
+Cluster num: 13 : 4.0
+Cluster num: 14 : 14.0
+Cluster num: 15 : 9.0
+Cluster num: 16 : 3.0
+Cluster num: 17 : 8.0
+Cluster num: 18 : 7.0
+Number of data points: 15
+Round 1
+Cluster: 1
+5.0 , 6.0 , 
+Cluster: 2
+9.0 , 9.0 , 10.0 , 
+Cluster: 3
+
+Cluster: 4
+8.0 , 
+Cluster: 5
+13.0 , 14.0 , 
+Cluster: 6
+11.0 , 12.0 , 
+Cluster: 7
+
+Cluster: 8
+
+Cluster: 9
+1.0 , 
+Cluster: 10
+
+Cluster: 11
+
+Cluster: 12
+2.0 , 
+Cluster: 13
+4.0 , 
+Cluster: 14
+
+Cluster: 15
+
+Cluster: 16
+3.0 , 
+Cluster: 17
+
+Cluster: 18
+7.0 , 
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 5.5
+New centroid num: 2 : 9.333333015441895
+New centroid num: 3 : NaN
+New centroid num: 4 : 8.0
+New centroid num: 5 : 13.5
+New centroid num: 6 : 11.5
+New centroid num: 7 : NaN
+New centroid num: 8 : NaN
+New centroid num: 9 : 1.0
+New centroid num: 10 : NaN
+New centroid num: 11 : NaN
+New centroid num: 12 : 2.0
+New centroid num: 13 : 4.0
+New centroid num: 14 : NaN
+New centroid num: 15 : NaN
+New centroid num: 16 : 3.0
+New centroid num: 17 : NaN
+New centroid num: 18 : 7.0
+Number of data points: 15
+Cluster: 1
+5.0 , 6.0 , 
+Cluster: 2
+9.0 , 9.0 , 10.0 , 
+Cluster: 3
+
+Cluster: 4
+8.0 , 
+Cluster: 5
+13.0 , 14.0 , 
+Cluster: 6
+11.0 , 12.0 , 
+Cluster: 7
+
+Cluster: 8
+
+Cluster: 9
+1.0 , 
+Cluster: 10
+
+Cluster: 11
+
+Cluster: 12
+2.0 , 
+Cluster: 13
+4.0 , 
+Cluster: 14
+
+Cluster: 15
+
+Cluster: 16
+3.0 , 
+Cluster: 17
+
+Cluster: 18
+7.0 , 
+
+--------------------------------
+
+5.5
+9.333333015441895
+NaN
+8.0
+13.5
+11.5
+NaN
+NaN
+1.0
+NaN
+NaN
+2.0
+4.0
+NaN
+NaN
+3.0
+NaN
+7.0
++++++++++++++++++++++++++++++2
+Cluster num: 1 : 13.0
+Cluster num: 2 : 8.0
+Cluster num: 3 : 14.0
+Cluster num: 4 : 14.0
+Cluster num: 5 : 3.0
+Cluster num: 6 : 4.0
+Cluster num: 7 : 1.0
+Cluster num: 8 : 3.0
+Cluster num: 9 : 5.0
+Cluster num: 10 : 14.0
+Cluster num: 11 : 5.0
+Cluster num: 12 : 11.0
+Cluster num: 13 : 13.0
+Cluster num: 14 : 10.0
+Cluster num: 15 : 5.0
+Cluster num: 16 : 6.0
+Cluster num: 17 : 10.0
+Cluster num: 18 : 4.0
+Cluster num: 19 : 4.0
+Number of data points: 15
+Round 1
+Cluster: 1
+12.0 , 13.0 , 
+Cluster: 2
+7.0 , 8.0 , 9.0 , 9.0 , 
+Cluster: 3
+14.0 , 
+Cluster: 4
+
+Cluster: 5
+2.0 , 3.0 , 
+Cluster: 6
+4.0 , 
+Cluster: 7
+1.0 , 
+Cluster: 8
+
+Cluster: 9
+5.0 , 
+Cluster: 10
+
+Cluster: 11
+
+Cluster: 12
+11.0 , 
+Cluster: 13
+
+Cluster: 14
+10.0 , 
+Cluster: 15
+
+Cluster: 16
+6.0 , 
+Cluster: 17
+
+Cluster: 18
+
+Cluster: 19
+
+
+--------------------------------
+
+Calculate new centroids
+New centroid num: 1 : 12.5
+New centroid num: 2 : 8.25
+New centroid num: 3 : 14.0
+New centroid num: 4 : NaN
+New centroid num: 5 : 2.5
+New centroid num: 6 : 4.0
+New centroid num: 7 : 1.0
+New centroid num: 8 : NaN
+New centroid num: 9 : 5.0
+New centroid num: 10 : NaN
+New centroid num: 11 : NaN
+New centroid num: 12 : 11.0
+New centroid num: 13 : NaN
+New centroid num: 14 : 10.0
+New centroid num: 15 : NaN
+New centroid num: 16 : 6.0
+New centroid num: 17 : NaN
+New centroid num: 18 : NaN
+New centroid num: 19 : NaN
+Number of data points: 15
+Cluster: 1
+12.0 , 13.0 , 
+Cluster: 2
+7.0 , 8.0 , 9.0 , 9.0 , 
+Cluster: 3
+14.0 , 
+Cluster: 4
+
+Cluster: 5
+2.0 , 3.0 , 
+Cluster: 6
+4.0 , 
+Cluster: 7
+1.0 , 
+Cluster: 8
+
+Cluster: 9
+5.0 , 
+Cluster: 10
+
+Cluster: 11
+
+Cluster: 12
+11.0 , 
+Cluster: 13
+
+Cluster: 14
+10.0 , 
+Cluster: 15
+
+Cluster: 16
+6.0 , 
+Cluster: 17
+
+Cluster: 18
+
+Cluster: 19
+
+
+--------------------------------
+
+12.5
+8.25
+14.0
+NaN
+2.5
+4.0
+1.0
+NaN
+5.0
+NaN
+NaN
+11.0
+NaN
+10.0
+NaN
+6.0
+NaN
+NaN
+NaN
++++++++++++++++++++++++++++++2
+[221, 66, 28, 21, 9, 22, 3, 18, 10, 9, 3, 7, 2, 1, 0, 0, 0, 0, 1]
